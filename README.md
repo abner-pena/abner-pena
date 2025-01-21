@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1>Hello, I'm Abner, an <a href="https://linkedin.com/in/abner-pena">IT Professional</h1>
 
-<!--
-**abner-pena/abner-pena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Information Technology Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Microsoft Azure</b>
+  - [Creating a virtial machine on Azure](https://github.com/abner-pena/Virtual-Machine)
+  - [Configuring Active Directory within Azure VMs](https://github.com/abner-pena/Configuring-Active-Directory-within-Azure-VMs)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/abner-pena/azure-network-protocols)
+ 
+- <b>Active Directory
+  - [Network File Shares and Permissions with Active Directory](https://github.com/abner-pena/Network-File-Shares-and-Permissions-with-Active-Directory)
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/abner-pena/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/abner-pena/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/abner-pena/ticket-lifecycle)
+
+- <b>Skills & Technologies
+  - Customer Service
+  - Troubleshooting
+  - Ticket Management
+  - Software Installation
+  - Hardware Installation
