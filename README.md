@@ -13,7 +13,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/abner-pena/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/abner-pena/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/abner-pena/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/abner-pena/ticket-lifecycle)
 
 - <b>Skills & Technologies
