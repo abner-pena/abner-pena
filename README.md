@@ -77,7 +77,6 @@ Automation           PowerShell · AD Lifecycle Scripting · Bulk Provisioning �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abner-pena&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=abner-pena&theme=dark&hide_border=true&background=0d1117" />
 </p>
 
