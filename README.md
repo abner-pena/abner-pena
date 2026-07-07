@@ -29,9 +29,10 @@ Currently pursuing **CompTIA Security+** (Aug 2026) and **SC-300: Microsoft Iden
 
 | Project | What I Built | Stack |
 |---|---|---|
+| [Okta Lifecycle Management](https://github.com/abner-pena/okta-lifecycle-management) | Full joiner-mover-leaver automation: CSV-driven provisioning, attribute-based group rules, SCIM 2.0 app provisioning, and two-stage deprovisioning with audit reporting | Okta · SCIM 2.0 · PowerShell · Universal Directory |
 | [Azure PIM Lab](https://github.com/abner-pena/azure-pim-lab) | Privileged Identity Management: eligible role assignments, MFA-gated activation, approval workflows, quarterly access reviews, and audit KQL queries | Entra ID · PIM · Graph API · PowerShell |
 | [PowerShell AD Automation](https://github.com/abner-pena/powershell-ad-automation) | 3 production scripts: bulk user provisioning from CSV, inactive account deprovisioning with quarantine, and full access audit reporting | PowerShell · AD DS · RBAC |
-| [Azure Entra ID Lab](https://github.com/abner-pena/azure-entra-id-lab) | Conditional Access policies, MFA enforcement, SSPR, device compliance, and legacy auth blocking — with importable JSON policy templates | Entra ID · Intune · Graph API |
+| [Azure Entra ID Lab](https://github.com/abner-pena/azure-entra-id-lab) | Conditional Access policies, MFA enforcement, SSPR, device compliance, and legacy auth blocking, with importable JSON policy templates | Entra ID · Intune · Graph API |
 | [Configuring Active Directory in Azure](https://github.com/abner-pena/Configuring-Active-Directory-within-Azure-VMs) | Full AD domain from scratch: DCs, OUs, GPOs, user lifecycle, PowerShell bulk provisioning | Azure VMs · AD DS · PowerShell |
 | [Network File Shares and Permissions](https://github.com/abner-pena/Network-File-Shares-and-Permissions-with-Active-Directory) | RBAC-based file share access control using AD groups and permission inheritance | Active Directory · RBAC · Windows Server |
 
@@ -58,7 +59,7 @@ Currently pursuing **CompTIA Security+** (Aug 2026) and **SC-300: Microsoft Iden
 
 [![Daily Commits](https://img.shields.io/badge/Study%20Log-Daily%20Commits-6f42c1?style=flat&logo=github)](https://github.com/abner-pena/daily-security-log)
 
-Active cert prep logged daily in [`daily-security-log`](https://github.com/abner-pena/daily-security-log). Rotating through 14 IAM and Security+ concepts — Conditional Access, PIM, Zero Trust, RBAC, Hybrid Identity, Entra ID Protection, and more. Automated via GitHub Actions.
+Active cert prep logged daily in [`daily-security-log`](https://github.com/abner-pena/daily-security-log). Rotating through 14 IAM and Security+ concepts: Conditional Access, PIM, Zero Trust, RBAC, Hybrid Identity, Entra ID Protection, and more. Automated via GitHub Actions.
 
 ---
 
