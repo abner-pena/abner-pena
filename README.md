@@ -29,6 +29,7 @@ Currently pursuing **CompTIA Security+** (Aug 2026) and **SC-300: Microsoft Iden
 
 | Project | What I Built | Stack |
 |---|---|---|
+| [SAML vs OIDC SSO Lab](https://github.com/abner-pena/saml-oidc-sso-lab) | Side-by-side federation protocol lab in Entra ID: SAML enterprise app with custom claims mapping, OIDC app registration via Graph PowerShell, annotated token teardowns, cert expiry monitoring, and AADSTS failure triage scripts | Entra ID · SAML 2.0 · OIDC/OAuth 2.0 · Graph PowerShell |
 | [Zero Trust Architecture Lab](https://github.com/abner-pena/zero-trust-architecture-lab) | Zero Trust reference build in Azure: Conditional Access policy set (phishing-resistant MFA, legacy auth block, device compliance, risk-based), segmented VNet with default-deny NSGs, and KQL detections for policy bypass and tampering | Entra ID · Conditional Access · Azure NSGs · KQL |
 | [Okta Lifecycle Management](https://github.com/abner-pena/okta-lifecycle-management) | Full joiner-mover-leaver automation: CSV-driven provisioning, attribute-based group rules, SCIM 2.0 app provisioning, and two-stage deprovisioning with audit reporting | Okta · SCIM 2.0 · PowerShell · Universal Directory |
 | [Azure PIM Lab](https://github.com/abner-pena/azure-pim-lab) | Privileged Identity Management: eligible role assignments, MFA-gated activation, approval workflows, quarterly access reviews, and audit KQL queries | Entra ID · PIM · Graph API · PowerShell |
