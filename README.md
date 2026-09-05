@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-abner.pena97%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Security%2B-In%20Progress-yellow?style=flat&logo=comptia" />
-  <img src="https://img.shields.io/badge/SC--300-Planned%20Sep%202026-blue?style=flat&logo=microsoft" />
+  <img src="https://img.shields.io/badge/SC--300-Planned%20Oct%202026-blue?style=flat&logo=microsoft" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20W2%20Roles-brightgreen?style=flat" />
 </p>
 
@@ -21,7 +21,7 @@ IAM and Cloud Security Engineer with hands-on enterprise experience in **Azure A
 
 At **YNAP (Yoox Net-A-Porter)**, I administer Azure AD / Entra ID with MFA and Conditional Access, managed DLP/GDPR compliance across NA/EU/APAC, and led a 400+ machine Windows 11 migration. I've automated 1,000+ user accounts via PowerShell and built identity and cloud infrastructure from scratch.
 
-Currently pursuing **CompTIA Security+** (Aug 2026) and **SC-300: Microsoft Identity & Access Administrator** (Sep 2026). Targeting a fully remote IAM or Cloud Security Engineer role.
+Currently pursuing **CompTIA Security+** (Sep 2026) and **SC-300: Microsoft Identity & Access Administrator** (Oct 2026). Targeting a fully remote IAM or Cloud Security Engineer role.
 
 ---
 
