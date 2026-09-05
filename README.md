@@ -62,11 +62,11 @@ Currently pursuing **CompTIA Security+** (Sep 2026) and **SC-300: Microsoft Iden
 
 ---
 
-## 📓 Daily Study Log
+## 📓 Cert Prep
 
-[![Daily Commits](https://img.shields.io/badge/Study%20Log-Daily%20Commits-6f42c1?style=flat&logo=github)](https://github.com/abner-pena/daily-security-log)
+[![Security+ Practice Quiz](https://img.shields.io/badge/Live%20App-Security%2B%20Practice%20Quiz-6f42c1?style=flat&logo=github)](https://abner-pena.github.io/SY0-701-Exam-Prep/)
 
-Active cert prep logged daily in [`daily-security-log`](https://github.com/abner-pena/daily-security-log). Rotating through 14 IAM and Security+ concepts: Conditional Access, PIM, Zero Trust, RBAC, Hybrid Identity, Entra ID Protection, and more.
+Built and deployed an [interactive Security+ SY0-701 practice quiz](https://github.com/abner-pena/SY0-701-Exam-Prep) — timed exams, domain scoring, and instant answer explanations. Working toward **CompTIA Security+** (Sep 2026) and **SC-300** (Oct 2026); the IAM labs above double as hands-on exam prep.
 
 ---
 
