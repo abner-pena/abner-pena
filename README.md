@@ -2,7 +2,7 @@
      Synced from live 2026-09-05. Cert dates corrected (Security+ Sep 2026, SC-300 Oct 2026)
      and the Daily Study Log section replaced with the deployed Security+ quiz after
      daily-security-log was renamed to iam-concept-notes and made private.
-     The live version is the source of truth — pull it down before editing, then push back. -->
+     The live version is the source of truth, pull it down before editing, then push back. -->
 
 <h1 align="center">Hey, I'm Abner Peña 👋</h1>
 <h3 align="center">IAM & Cloud Security Engineer · Azure AD / Entra ID · PowerShell · Endpoint Security</h3>
@@ -35,6 +35,7 @@ Currently pursuing **CompTIA Security+** (Sep 2026) and **SC-300: Microsoft Iden
 
 | Project | What I Built | Stack |
 |---|---|---|
+| [AWS IAM Identity Center Lab](https://github.com/abner-pena/aws-iam-identity-center-lab) | Entra ID as the single identity source for AWS: SAML federation plus SCIM provisioning into IAM Identity Center, job-function permission sets assigned to synced groups, an IAM permissions boundary that blocks role-creation privilege escalation, organization-wide SCPs denying root usage, region sprawl, and security-control tampering, PIM-backed just-in-time break-glass admin, plus Access Analyzer unused-access scoping and joint CloudTrail/Athena and Entra ID KQL detections | AWS IAM Identity Center · AWS Organizations · SCPs · Permissions Boundaries · IAM Access Analyzer · SCIM 2.0 · SAML · Athena · KQL |
 | [Workload Identity Federation Lab](https://github.com/abner-pena/workload-identity-federation-lab) | Secretless workload identity build: OIDC federation from GitHub Actions to Entra ID scoped to a single repo and environment, managed identities for in-Azure workloads, a tenant-wide credential and app-permission audit, Conditional Access location locking for service principals, consent governance, and KQL detections for credential-addition persistence, federated-credential backdoors, and consent phishing | Entra ID · Workload Identity Federation · OIDC · Managed Identities · Graph PowerShell · KQL |
 | [Cloud Security Posture Management](https://github.com/abner-pena/cloud-security-posture-management) | End-to-end CSPM lab with Microsoft Defender for Cloud: enable the Defender CSPM plan and agentless scanning, baseline and drive up Secure Score, enforce Azure Policy guardrails (deny public storage, require encryption, audit open management ports), map to CIS and NIST 800-53, run attack path analysis on internet-exposed resources chaining to privileged identities, and self-heal drift with DeployIfNotExists plus continuous export and KQL posture hunts | Defender for Cloud · Azure Policy · Secure Score · Attack Path Analysis · KQL · Az PowerShell |
 | [Azure AD Connect Hybrid Identity](https://github.com/abner-pena/azure-ad-connect-hybrid-identity) | End-to-end hybrid identity bridge: Azure AD Connect with Password Hash Sync as the resilient auth model, Seamless SSO with automated 30-day Kerberos key rollover, group and password writeback, OU and attribute-scoped filtering, plus PowerShell for pre-sync UPN remediation, PHS heartbeat checks, and sync-health reporting, and KQL detections for sync-account and provisioning anomalies | Azure AD Connect · AD DS · Entra ID · Password Hash Sync · Seamless SSO · Graph PowerShell |
@@ -73,15 +74,15 @@ Currently pursuing **CompTIA Security+** (Sep 2026) and **SC-300: Microsoft Iden
 
 [![Security+ Practice Quiz](https://img.shields.io/badge/Live%20App-Security%2B%20Practice%20Quiz-6f42c1?style=flat&logo=github)](https://abner-pena.github.io/SY0-701-Exam-Prep/)
 
-Built and deployed an [interactive Security+ SY0-701 practice quiz](https://github.com/abner-pena/SY0-701-Exam-Prep) — timed exams, domain scoring, and instant answer explanations. Working toward **CompTIA Security+** (Sep 2026) and **SC-300** (Oct 2026); the IAM labs above double as hands-on exam prep.
+Built and deployed an [interactive Security+ SY0-701 practice quiz](https://github.com/abner-pena/SY0-701-Exam-Prep): timed exams, domain scoring, and instant answer explanations. Working toward **CompTIA Security+** (Sep 2026) and **SC-300** (Oct 2026); the IAM labs above double as hands-on exam prep.
 
 ---
 
 ## 🧰 Core Stack
 
 ```
-Identity & Access    Azure AD / Entra ID · Active Directory · Okta · Duo MFA · SSO · RBAC · Conditional Access · PIM
-Cloud                Azure (VMs, VNets, NSGs) · DNS · DHCP · VPN · VDI · Microsoft Sentinel
+Identity & Access    Azure AD / Entra ID · Active Directory · Okta · AWS IAM Identity Center · Duo MFA · SSO · RBAC · Conditional Access · PIM
+Cloud                Azure (VMs, VNets, NSGs) · AWS (Organizations, IAM, SCPs) · DNS · DHCP · VPN · VDI · Microsoft Sentinel
 Device Management    SCCM · Jamf Pro · Intune · AirWatch · iOS/Android MDM · OS Imaging
 Security             DLP · GDPR · BitLocker · Zscaler · Endpoint Security · MFA · Firewall Policies · KQL
 Automation           PowerShell · AD Lifecycle Scripting · Bulk Provisioning · GitHub Actions
