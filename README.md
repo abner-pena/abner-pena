@@ -1,7 +1,6 @@
 <!-- SOURCE COPY of the LIVE profile README at github.com/abner-pena/abner-pena
-     Synced from live 2026-09-05. Cert dates corrected (Security+ Sep 2026, SC-300 Oct 2026)
-     and the Daily Study Log section replaced with the deployed Security+ quiz after
-     daily-security-log was renamed to iam-concept-notes and made private.
+     Synced from live 2026-10-25. Security+ shown as exam scheduled November 2026,
+     SC-300 references removed, W2 and contract badge, Google Workspace stack added.
      The live version is the source of truth, pull it down before editing, then push back. -->
 
 <h1 align="center">Hey, I'm Abner Peña 👋</h1>
@@ -15,8 +14,7 @@
     <img src="https://img.shields.io/badge/Email-abner.pena97%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Security%2B-In%20Progress-yellow?style=flat&logo=comptia" />
-  <img src="https://img.shields.io/badge/SC--300-Planned%20Oct%202026-blue?style=flat&logo=microsoft" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20W2%20Roles-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20W2%20and%20Contract%20Roles-brightgreen?style=flat" />
 </p>
 
 ---
@@ -27,7 +25,9 @@ IAM and Cloud Security Engineer with hands-on enterprise experience in **Azure A
 
 At **YNAP (Yoox Net-A-Porter)**, I administer Azure AD / Entra ID with MFA and Conditional Access, managed DLP/GDPR compliance across NA/EU/APAC, and led a 400+ machine Windows 11 migration. I've automated 1,000+ user accounts via PowerShell and built identity and cloud infrastructure from scratch.
 
-Currently pursuing **CompTIA Security+** (Sep 2026) and **SC-300: Microsoft Identity & Access Administrator** (Oct 2026). Targeting a fully remote IAM or Cloud Security Engineer role.
+At YNAP I am the US lead for desktop support, manage the Google Admin console, Google Groups, permissions and Drive sharing, and use Gemini across Google Workspace daily.
+
+Currently pursuing CompTIA Security+ (exam scheduled November 2026). Targeting a fully remote IAM or Cloud Security Engineer role.
 
 ---
 
@@ -78,7 +78,7 @@ Currently pursuing **CompTIA Security+** (Sep 2026) and **SC-300: Microsoft Iden
 
 [![Security+ Practice Quiz](https://img.shields.io/badge/Live%20App-Security%2B%20Practice%20Quiz-6f42c1?style=flat&logo=github)](https://abner-pena.github.io/SY0-701-Exam-Prep/)
 
-Built and deployed an [interactive Security+ SY0-701 practice quiz](https://github.com/abner-pena/SY0-701-Exam-Prep): timed exams, domain scoring, and instant answer explanations. Working toward **CompTIA Security+** (Sep 2026) and **SC-300** (Oct 2026); the IAM labs above double as hands-on exam prep.
+Built and deployed an [interactive Security+ SY0-701 practice quiz](https://github.com/abner-pena/SY0-701-Exam-Prep): timed exams, domain scoring, and instant answer explanations. Working toward CompTIA Security+ (exam scheduled November 2026); the IAM labs above double as hands-on exam prep.
 
 ---
 
@@ -90,6 +90,7 @@ Cloud                Azure (VMs, VNets, NSGs) · AWS (Organizations, IAM, SCPs) 
 Device Management    SCCM · Jamf Pro · Intune · AirWatch · iOS/Android MDM · OS Imaging
 Security             DLP · GDPR · BitLocker · Zscaler · Endpoint Security · MFA · Firewall Policies · KQL
 Automation           PowerShell · AD Lifecycle Scripting · Bulk Provisioning · GitHub Actions
+Google Workspace     Google Workspace Administration · Gemini · Google Admin console · Groups and Drive sharing
 ```
 
 ---
@@ -113,5 +114,5 @@ Automation           PowerShell · AD Lifecycle Scripting · Bulk Provisioning �
 ---
 
 <p align="center">
-  <i>Open to fully remote IAM & Cloud Security Engineer roles · English / Spanish · Saddle Brook, NJ</i>
+  <i>Open to fully remote IAM and Cloud Security Engineer roles, W2 or contract, English / Spanish, Saddle Brook, NJ</i>
 </p>
